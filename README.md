@@ -1,11 +1,14 @@
-# Calcolatrice Python
+# Description
+This is my first project on github and its is a first version, which will implemented over time.
 
-## Requisiti
+# Python Calculator
+
+## Requirements
 
 - Python 3.14
 - PyQt6
 
-## Installazione
+## Install
 
 ```bash
 python -m venv .venv
@@ -13,7 +16,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-## Versioni
+## Version
 
 | Tag | Descrizione |
 |-----|-------------|
